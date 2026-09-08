@@ -5,7 +5,7 @@
 Вдохновлено челленджем [Frontend Mentor: Weather app](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49).
 
 ## Демо
-[Посмотреть на GitHub Pages]()
+[Посмотреть на GitHub Pages](https://polina-sv.github.io/weather-app/)
 
 ## Функциональность
 
